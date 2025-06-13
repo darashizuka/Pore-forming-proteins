@@ -1,0 +1,17 @@
+# config.yaml
+
+# Paths
+data_dir: Data
+embedding_dir: Data/esm_embeddings
+physico_dir: Data/physico-chemical
+pseaac_dir: Data/pseaac
+protbert_dir: Data/protbert_embeddings
+plot_path: training_loss_plot.png
+feature_pickle: Data/features_pore.pkl
+
+# Dataset files
+physico_csv: Data/physico_chemical.csv
+train_test_csv: Data/train_test_github.csv
+cullpdb_fasta: Data/Cullpdb_5616HitsRemoved.fasta
+feature_pickle: Data/features_pore.pkl
+
