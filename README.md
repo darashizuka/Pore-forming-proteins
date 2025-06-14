@@ -21,6 +21,7 @@ python setup_data.py
 This script will:
 - Download a zipped folder from Google Drive
 - Extract it to the project root
+After this step, you should see a Data/ folder in your project directory
   
 ### 4. Run the main pipeline script
 ```bash
