@@ -35,5 +35,9 @@ To save console output which includes results to a file:
 ```bash
 python pore_forming_pipeline.py > results.txt
 ```
+---
+Note: If you want to use different paths, edit the config.yaml file in the project root.
+
+
 
 
