@@ -4,7 +4,7 @@ This repository contains code for building and evaluating machine learning model
 ---
 ## Dataset
 Protein sequence data used in our study is sourced from https://github.com/basf/pore_forming_protein_DLM. We use these sequences to extract several features and embeddings using protein language model
----
+
 ## Setup Instructions
 ### 1. Clone this GitHub repository
 ```bash
