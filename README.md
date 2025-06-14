@@ -6,7 +6,7 @@ This repository contains code for building and evaluating machine learning model
 ## Setup Instructions
 ### 1. Clone this GitHub repository
 ```bash
-git clone https://github.com/darashizuka/Pore-forming-proteins
+git clone https://github.com/darashizuka/Pore-forming-proteins.git
 cd Pore_forming-proteins
 ```
 ### 2. Install required python packages
